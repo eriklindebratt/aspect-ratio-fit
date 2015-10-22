@@ -3,7 +3,6 @@
  *
  * Copyright 2015, Erik Lindebratt
  * Released under the MIT license - http://eriklindebratt.mit-license.org/
- *
  */
 ;(function(window, document) {
   'use strict';
@@ -91,7 +90,7 @@
   };
 
   /**
-   * @private
+   * @public
    * @param {DOMElement} elem
    * @param {String} className
    */
