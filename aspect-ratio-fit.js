@@ -1,5 +1,5 @@
 /*!
- * AspectRatioFit 1.0
+ * AspectRatioFit
  *
  * Copyright 2015, Erik Lindebratt
  * Released under the MIT license - http://eriklindebratt.mit-license.org/
