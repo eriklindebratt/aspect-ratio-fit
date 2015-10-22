@@ -1,4 +1,4 @@
-/**
+/*!
  * AspectRatioFit 1.0
  *
  * Copyright 2015, Erik Lindebratt
