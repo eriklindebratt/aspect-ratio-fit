@@ -1,0 +1,28 @@
+{
+  "name": "aspect-ratio-fit",
+  "main": "aspect-ratio-fit.js",
+  "homepage": "https://github.com/eriklindebratt/aspect-ratio-fit",
+  "authors": [
+    "Erik Lindebratt <erik.lindebratt@gmail.com>"
+  ],
+  "description": "Makes your iframe embeds responsive, without any JS library.",
+  "moduleType": [],
+  "keywords": [
+    "iframe",
+    "embed",
+    "aspect",
+    "ratio",
+    "aspect",
+    "ratio",
+    "aspectratio",
+    "responsive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
